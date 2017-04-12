@@ -1,0 +1,2 @@
+# mycoins
+virtual mining contracts
